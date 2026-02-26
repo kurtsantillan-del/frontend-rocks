@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-// --- 1. Definizione dell'Interfaccia (Tutte le tue variabili) ---
+// --- 1. rDefinizione dell'Interfaccia (Tutte le tue variabili) ---
 export interface PokemonCardProps {
   id: number;
   name: string;
